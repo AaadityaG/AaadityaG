@@ -14,7 +14,7 @@ command - ![logo] (paste the link)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 <h3 align="center">A student and learner trying to become Software Engineer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 
 - 🌱 I’m currently learning **DSA (Love Babbar Bhaiyya's DSA course. )**
 
