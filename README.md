@@ -16,7 +16,7 @@ command - ![logo] (paste the link)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaadityag&label=Profile%20views&color=0e75b6&style=flat" alt="aaadityag" /> </p>
 
-- 🌱 I’m currently learning **DSA (Love Babbar Bhaiyya's DSA course. )**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **C, C++, Java**
 
