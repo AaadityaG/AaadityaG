@@ -26,7 +26,7 @@ command - ![logo] (paste the link)
 <p align="left">
 <a href="https://linkedin.com/in/aditya gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aditya gaikwad" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithadi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codewithadi1" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/helloadig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="helloadig" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/helloadig" target="blank"><img align="center" src="https://img.icons8.com/color/48/GeeksforGeeks.png" alt="helloadig" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
