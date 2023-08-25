@@ -23,7 +23,7 @@ command - ![logo] (paste the link)
 
    <i>🌱 I’m currently learning **Develoment**
   
-   💬 Ask me about **C, C++, Java**
+   💬 Ask me about **HTML, CSS, JS, C++**
   
    📫 How to reach me **helloadig@gmail.com**</i> <br/><br/><br/>
 
