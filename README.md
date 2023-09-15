@@ -12,7 +12,7 @@ command - ![logo] (paste the link)
 
 <div align="center">
 <h1 align="center">Hi 👋, I'm Aditya</h1>
-<h3 align="center">A student trying to become Developer</h3><br/>
+<h3 align="center">A student on a journey of becoming Developer</h3><br/>
 
 
 
