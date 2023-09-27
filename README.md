@@ -35,6 +35,4 @@
 
 <h3 align="left">Licences and Certifications</h3>
 <p>Certified by 5+ different Platforms with over 20+ certificates : <a href="https://drive.google.com/drive/folders/131YgI5ehKg7DV_XufZVGq6hCHT5duE6_?usp=drive_link">Checkout🧐</a></p>
-<!-- ![Untitled (1) (2) (1)](https://github.com/AaadityaG/AaadityaG/assets/114663382/536b1282-82cc-4b83-8579-9627837a381f) -->
-
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/114663382/270929009-536b1282-82cc-4b83-8579-9627837a381f.gif">
+<img width="540px" src="https://github.com/AaadityaG/AaadityaG/assets/114663382/e4d29063-883e-4ca9-ad94-b2b2f03f7997">
