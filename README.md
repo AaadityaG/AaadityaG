@@ -31,3 +31,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaadityag&show_icons=true&locale=en&layout=compact" alt="aaadityag" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaadityag&" alt="aaadityag" /></p>
+
+
+<h3 align="left">Licences and Certifications</h3>
+<p>Certified by 5+ different Platforms with over 20+ certificates : <a href="https://drive.google.com/drive/folders/131YgI5ehKg7DV_XufZVGq6hCHT5duE6_?usp=drive_link">Checkout🧐</a></p>
