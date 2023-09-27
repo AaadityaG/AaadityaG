@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AaadityaG?tab=repositories](https://github.com/AaadityaG?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositoris](https://github.com/AaadityaG?tab=repositories)
 
 - 💬 Ask me about **HTML5, CSS3, Js(ES6), Frontend.**
 
