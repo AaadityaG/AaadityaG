@@ -32,7 +32,7 @@
 </p>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
+<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://vitejs.dev" target="_blank" rel="noreferrer"> <img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="vite" width="40" height="40"/> </a> 
 
   <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a> <a href="https://www.audacityteam.org" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/A/Audacity-logo-vector-01.svg" alt="audacity" width="40" height="40"/> </a> <a href="https://filmora.wondershare.net/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/es/334140/png/wondershare-filmora-video-editor-logo.png" alt="audacity" width="40" height="40"/> </a> </p>
 
