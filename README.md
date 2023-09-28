@@ -35,9 +35,12 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://learn.microsoft.com/en-us/windows-server/administration/windows-commands/windows-commands" target="_blank" rel="noreferrer"> <img src="https://www.mintywhite.com/wp-content/uploads/2010/12/391.png" alt="cmd" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-in/software-download/windows10" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/png_logo_vector/windows-10-icon-logo.png" alt="win10" width="40" height="40"/> </a> <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"> <img src="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" alt="chatgpt" width="40" height="40"/> </a>
 
   <a href="https://www.canva.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/> </a> <a href="https://www.audacityteam.org" target="_blank" rel="noreferrer"> <img src="https://brandeps.com/logo-download/A/Audacity-logo-vector-01.svg" alt="audacity" width="40" height="40"/> </a> <a href="https://filmora.wondershare.net/" target="_blank" rel="noreferrer"> <img src="https://iconape.com/wp-content/files/es/334140/png/wondershare-filmora-video-editor-logo.png" alt="audacity" width="40" height="40"/> </a> </p>
-
+<details>
+  <summary> <h3>Most used language</h3> (click me...) </summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aaadityag&show_icons=true&locale=en&layout=compact" alt="aaadityag" /></p>
+</details>
 
+<h3 align="left">Contributions and Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaadityag&" alt="aaadityag" /></p>
 
 
