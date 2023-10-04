@@ -47,3 +47,8 @@
 <h3 align="left">Licences and Certifications</h3>
 <p>Certified by 5+ different Platforms with over 20+ certificates : <a href="https://drive.google.com/drive/folders/131YgI5ehKg7DV_XufZVGq6hCHT5duE6_?usp=drive_link">Checkout🧐</a></p>
 <img width="540px" target="_blank" src="https://github.com/AaadityaG/AaadityaG/assets/114663382/e4d29063-883e-4ca9-ad94-b2b2f03f7997">
+
+<details>
+  <summary> <h3>Badges:</h3> (click me...) </summary>
+  <a href="https://www.holopin.io/@aaadityag#badges" target="_blank"> <img width="150" src="https://assets.holopin.io/hf2023levels/level0-gold-0-0-0.webp"> </a> <a href="https://www.holopin.io/@aaadityag#badges" target="_blank"> <img width="150" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="> </a>
+</details>
