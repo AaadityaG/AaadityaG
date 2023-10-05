@@ -4,17 +4,11 @@
 
 
 - 🔭 I’m currently working on **Frontend Skills**
-
 - 🌱 I’m currently learning **React**
-
 - 👯 I’m looking to collaborate on **Frontend Projects**
-
 - 👨‍💻 All of my projects are available at [Repositoris](https://github.com/AaadityaG?tab=repositories)
-
 - 💬 Ask me about **HTML5, CSS3, Js(ES6), Frontend.**
-
 - 📫 How to reach me **helloadig@gmail.com**
-
 - ⚡ Fun fact **"Programmers spend a significant portion of their lives fixing bugs they created themselves.💀"**
 
 <h3 align="left">Connect with me:</h3>
