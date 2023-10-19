@@ -1,3 +1,4 @@
+[![An image of @aaadityag's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaadityag)](https://holopin.io/@aaadityag)
 <h1 align="center">Hi 👋, I'm Aditya</h1>
 
 <h3 align="center">Student on a journey of becoming a Developer.</h3>
@@ -44,7 +45,4 @@
 <p>Certified by 5+ different Platforms with over 20+ certificates : <a href="https://drive.google.com/drive/folders/131YgI5ehKg7DV_XufZVGq6hCHT5duE6_?usp=drive_link">Checkout🧐</a></p>
 <img width="540px" target="_blank" src="https://github.com/AaadityaG/AaadityaG/assets/114663382/e4d29063-883e-4ca9-ad94-b2b2f03f7997">
 
-<details>
-  <summary> <h3>Badges:</h3> (click me...) </summary>
-  <a href="https://www.holopin.io/@aaadityag#badges" target="_blank"> <img width="150" src="https://assets.holopin.io/hf2023levels/level0-gold-0-0-0.webp"> </a> <a href="https://www.holopin.io/@aaadityag#badges" target="_blank"> <img width="150" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="> </a> <a href="https://www.holopin.io/@aaadityag#badges" target="_blank"> <img width="150" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16YzVpdWYxMDA0ODBma3V6dTBxYnpxOCIsImVkaXRzIjp7InJvdGF0ZSI6bnVsbH19"> </a> <a href="https://www.holopin.io/@aaadityag#badges" target="_blank"> <img width="150" src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbG16MW5neWQwMjM3bTN6am50c2V6Yng2IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0="> </a>
-</details>
+
