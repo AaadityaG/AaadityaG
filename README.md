@@ -35,7 +35,7 @@
   <a href="https://www.canva.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/></a> <a href="https://www.audacityteam.org" target="_blank" rel="noreferrer"><img src="https://brandeps.com/logo-download/A/Audacity-logo-vector-01.svg" alt="audacity" width="40" height="40"/></a> <a href="https://filmora.wondershare.net/" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/files/es/334140/png/wondershare-filmora-video-editor-logo.png" alt="audacity" width="40" height="40"/></a> </p>
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<h1> Github Stats </h1>  
+<h3> Github Stats </h3>  
 <div align="center">
   <a href="https://quine.sh/user/Aaaditya" target="_blank">
     <img src="https://stats.quine.sh/Aaaditya/github?theme=dark"/>
