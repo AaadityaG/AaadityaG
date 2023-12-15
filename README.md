@@ -43,7 +43,8 @@
   </a>
 </div>
 <h3 align="center">Contributions and Streak:</h3>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaadityag&" alt="aaadityag" /></p>
+<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaadityag&" alt="aaadityag" /></p> -->
+<img src="https://streak-stats.demolab.com?user=aaadityag&theme=tokyonight&hide_border=true&border_radius=50" height="160px" align="center" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">Licences and Certifications</h3>
