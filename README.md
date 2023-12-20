@@ -12,6 +12,7 @@
 - 💬 Ask me about **HTML5, CSS3, Js(ES6), Frontend.**
 - 📫 How to reach me **helloadig@gmail.com**
 - ⚡ Fun fact **"Programmers spend a significant portion of their lives fixing bugs they created themselves.💀"**
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div>
   <h3 align="center">Coding Profiles:</h3>
   <p align="center">
@@ -22,7 +23,7 @@
   </p>
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 <div align="center">
 <h3 align="">Connect with me:</h3>
 <p align="center">
@@ -31,7 +32,7 @@
 <a href="https://instagram.com/codewithadi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram/codewithadi1" height="30" width="40" /></a>
 <a href="https://medium.com/@helloadig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium/@helloadig" height="30" width="40" /></a>
 </p>
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="">Languages and Tools:</h3>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a> <a href="https://www.w3schools.com/react/react_jsx.asp" target="_blank" rel="noreferrer"><img src="https://github.com/file-icons/icons/blob/master/svg/JSX.svg" alt="jsx" width="40" height="40"/></a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" width="40" height="40"/></a> 
 <br/> 
