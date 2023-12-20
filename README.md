@@ -12,11 +12,21 @@
 - 💬 Ask me about **HTML5, CSS3, Js(ES6), Frontend.**
 - 📫 How to reach me **helloadig@gmail.com**
 - ⚡ Fun fact **"Programmers spend a significant portion of their lives fixing bugs they created themselves.💀"**
+<div>
+  <h3 align="center">Coding Profiles:</h3>
+  <p align="center">
+    <a href="https://coddy.tech/user/ED28dXnyRiXEAZZMl4HLSIk3nuk1" target="blank"><img align="center" src="https://coddy.tech/icons/logo.svg" alt="coddy/aditya" height="30" width="40" /></a>
+   <a href="https://www.sololearn.com/en/profile/29321101" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="sololearn/aditya" height="40" width="40" /></a> <a href="https://exercism.org/profiles/AaadityaG" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/5624255?v=4&s=400" alt="exercism/aaditya" height="40" width="40" /></a>
+  <a href="https://leetcode.com/helloadig/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode/aditya" height="40" width="40" /></a>
+  <a href="https://quine.sh/user/Aaaditya" target="blank"><img align="center" src="https://quine.sh/images/quine-logo-white.svg" alt="quine/aditya" height="10"  /></a>
+  </p>
+</div>
+
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <div align="center">
 <h3 align="">Connect with me:</h3>
 <p align="center">
-<a href="https://linkedin.com/in/aditya--gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/aditya--gaikwad" height="30" width="40" /></a> <a href="https://twitter.com/Dev_AdityaG" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="twitter" height="30" width="30" /></a> <a href="https://discord.com/users/926380467568128003" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="discord" height="30" width="30" /></a>
+  <a href="https://linkedin.com/in/aditya--gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/aditya--gaikwad" height="30" width="40" /></a> <a href="https://twitter.com/Dev_AdityaG" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="twitter" height="30" width="30" /></a> <a href="https://discord.com/users/926380467568128003" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="discord" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/19709789/aditya-gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow/aditya-gaikwad" height="30" width="40" /></a>
 <a href="https://instagram.com/codewithadi1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram/codewithadi1" height="30" width="40" /></a>
 <a href="https://medium.com/@helloadig" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium/@helloadig" height="30" width="40" /></a>
