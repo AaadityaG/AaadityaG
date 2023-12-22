@@ -19,7 +19,6 @@
     <a href="https://coddy.tech/user/ED28dXnyRiXEAZZMl4HLSIk3nuk1" target="blank"><img align="center" src="https://coddy.tech/icons/logo.svg" alt="coddy/aditya" height="30" width="40" /></a>
    <a href="https://www.sololearn.com/en/profile/29321101" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="sololearn/aditya" height="40" width="40" /></a> <a href="https://exercism.org/profiles/AaadityaG" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/5624255?v=4&s=400" alt="exercism/aaditya" height="40" width="40" /></a>
   <a href="https://leetcode.com/helloadig/" target="blank"><img align="center" src="https://leetcode.com/static/images/LeetCode_logo_rvs.png" alt="leetcode/aditya" height="40" width="40" /></a>
-  <a href="https://quine.sh/user/Aaaditya" target="blank"><img align="center" src="https://quine.sh/images/quine-logo-white.svg" alt="quine/aditya" height="10"  /></a>
   </p>
 </div>
 
