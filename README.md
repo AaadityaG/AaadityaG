@@ -61,14 +61,9 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <h3 align="center">Certifications and Showcases</h3>
 <p> Certified by 5+ different Platforms with over 20+ certificates : <a href="https://drive.google.com/drive/folders/131YgI5ehKg7DV_XufZVGq6hCHT5duE6_?usp=drive_link">Checkout🧐</a></p>
-<p align="center" width="200px">
-✅ 50+ Days of code at - leetcode
-✅ 130+ Days of code at - Sololearn
-✅ 100+ Days of code at - Coddy.tech
-✅ 100+ Days of code at - Mimo.org
-</p>
+
 <img width="540px" target="_blank" src="https://github.com/AaadityaG/AaadityaG/assets/114663382/e4d29063-883e-4ca9-ad94-b2b2f03f7997">
-<img width="155px" src="https://github.com/AaadityaG/AaadityaG/assets/114663382/95a73f9d-1f0b-4c21-b5cc-1b561850f8d7">
+
 
 
 ## Thank you for watching my profile, Lets make you smile: 
