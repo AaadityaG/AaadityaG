@@ -5,9 +5,9 @@
 
 
 
-- 🔭 I’m currently working on **Frontend Skills**
-- 🌱 I’m currently practising **React**
-- 👯 I’m looking to collaborate on **Frontend Projects**
+- 🔭 I’m currently working on **Side Projects**
+- 🌱 I’m currently practising **Nextjs**
+- 👯 I’m looking to collaborate on **Projects**
 - 👨‍💻 Best of my projects are available at [here](https://github.com/AaadityaG#:~:text=Customize%20your%20pins-,Pinned,-Articles%2DHub%20Public)
 - 💬 Ask me about **HTML5, CSS3, Js(ES6), Frontend.**
 - 📫 How to reach me **helloadig@gmail.com**
