@@ -30,7 +30,7 @@
 [![Metaverse](https://github-readme-stats.vercel.app/api/pin/?username=aaadityag&repo=Metaverse&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaadityaG/Metaverse)
 [![SushiMan](https://github-readme-stats.vercel.app/api/pin/?username=aaadityag&repo=Modern-Sushi-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaadityaG/Modern-Sushi-Website)
 [![Gericht](https://github-readme-stats.vercel.app/api/pin/?username=aaadityag&repo=Gericht-Modern-Restaurant-Webapp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaadityaG/Gericht-Modern-Restaurant-Webapp)
-[![Netflix](https://github-readme-stats.vercel.app/api/pin/?username=aaadityag&repo=Netflix-UI-Clone&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaadityaG/Netflix-UI-Clone)
+
 [![Business App](https://github-readme-stats.vercel.app/api/pin/?username=aaadityag&repo=Business-Service-Webapp&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaadityaG/Business-Service-Webapp)
 [![Applications Information App](https://github-readme-stats.vercel.app/api/pin/?username=aaadityag&repo=Application-s-Info-Webapp-&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/aaadityaG/Application-s-Info-Webapp-)
 
