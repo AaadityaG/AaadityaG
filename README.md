@@ -22,7 +22,7 @@
 <h3 align="">Hi, I'm Aditya!</h3>
 <p>A Frontend-Focused Fullstack Developer (:</p>
 
-<h3 align="">Lets connet:</h3>
+<h3 align="">Lets connect:</h3>
 <p>helloadig@gmail.com</p>
 
 <h3 align="">I can work with:</h3>
