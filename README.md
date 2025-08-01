@@ -20,7 +20,7 @@
 <!--   <a href="https://discord.com/users/926380467568128003" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="discord" height="30" width="30" /></a> -->
 <!-- </p> -->
 <h3 align="">Hi, I'm Aditya!</h3>
-<p>A frontend-focused fullstack developer, <a href="https://paa.ge/adtya/en" alt="https://paa.ge/adtya/en">here</a> is some sample work.</p>
+<p>A frontend-focused fullstack developer, <a href="https://paa.ge/adtya/en" alt="https://paa.ge/adtya/en" target="_blank">here</a> is some sample work.</p>
 
 <h3 align="">Lets connect:</h3>
 <p>helloadig@gmail.com</p>
