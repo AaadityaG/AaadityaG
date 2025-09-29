@@ -19,6 +19,11 @@
 <!--   <a href="https://twitter.com/Dev_AdityaG" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="twitter" height="30" width="30" /></a> -->
 <!--   <a href="https://discord.com/users/926380467568128003" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="discord" height="30" width="30" /></a> -->
 <!-- </p> -->
+
+<div align="left">
+  <img src="https://media1.giphy.com/media/jTMw980OBX5YEAulPm/200w.webp?cid=ecf05e47j9zw1kwjhpjfz4gl5081x8mumvwrmjlzomk0e7na&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100px"/>
+</div>
+
 <h3 align="">Hi, I'm Aditya!</h3>
 <p>A frontend-focused fullstack developer, <a href="https://paa.ge/adtya/en" alt="https://paa.ge/adtya/en" target="_blank">here</a> is some sample work.</p>
 
