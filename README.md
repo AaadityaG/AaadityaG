@@ -1,53 +1,91 @@
+## Aditya Gaikwad
+
+ A fullstack developer crafting seamless digital experiences from backend to frontend
 
 
-<!-- 
-  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-<div>
+**📧 Let's connect:** helloadig@gmail.com
 
-  <h3 align="center">My Coding Profiles:</h3>
-  <p align="center">
-    <a href="https://coddy.tech/user/ED28dXnyRiXEAZZMl4HLSIk3nuk1" target="blank"><img align="center" src="https://coddy.tech/icons/logo.svg" alt="coddy/aditya" height="30" width="40" /></a>
-   <a href="https://www.sololearn.com/en/profile/29321101" target="blank"><img align="center" src="https://blob.sololearn.com/avatars/sololearn.png" alt="sololearn/aditya" height="40" width="40" /></a> <a href="https://exercism.org/profiles/AaadityaG" target="blank"><img align="center" src="https://avatars.githubusercontent.com/u/5624255?v=4&s=400" alt="exercism/aaditya" height="40" width="40" /></a>
-  </p>
-</div>
+**🔗 Portfolio:** [View my work →](https://paa.ge/adtya/en)
 
--->
+---
+
+## 🛠️ I have worked with:
+
+### **Frontend**
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" /><br><sub>HTML5</sub></td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" /><br><sub>CSS3</sub></td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" width="50" /><br><sub>React</sub></td>
+    <td align="center" width="80"><img src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg" width="50" /><br><sub>Next.js</sub></td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" /><br><sub>Tailwind</sub></td>
+    <td align="center" width="80"><img src="https://inceptum.s3.us-east-1.amazonaws.com/TErRc1E6L9wX/expoicon.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIA3HNMG24SATQ2TORO%2F20260512%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260512T073635Z&X-Amz-Expires=345600&X-Amz-Signature=465888e9ab0d3a60c38f5aeb6e3166744c4eec9bc2d1d3aa0d4b4521d79131cf&X-Amz-SignedHeaders=host&x-id=GetObject" width="50" /><br><sub>React Native Expo</sub></td>
+  </tr>
+ 
+</table>
 
 
-<!-- <p align="center"> -->
-<!--   <a href="https://linkedin.com/in/aditya--gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin/aditya--gaikwad" height="30" width="40" /></a>  -->
-<!--   <a href="https://twitter.com/Dev_AdityaG" target="blank"><img align="center" src="https://toppng.com/uploads/preview/twitter-x-new-logo-icon-png-11692480121koxvq54was.webp" alt="twitter" height="30" width="30" /></a> -->
-<!--   <a href="https://discord.com/users/926380467568128003" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/discord-6.svg" alt="discord" height="30" width="30" /></a> -->
-<!-- </p> -->
+### **Backend & Databases**
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" width="50" /><br><sub>Node.js</sub></td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="50" /><br><sub>Express</sub></td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" width="50" /><br><sub>MongoDB</sub></td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="50" /><br><sub>SQLite</sub></td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="50" /><br><sub>Firebase</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" width="50" /><br><sub>Appwrite</sub></td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" width="50" /><br><sub>Supabase</sub></td>
+    <td align="center" width="80"><img src="https://www.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png" width="50" /><br><sub>Prisma</sub></td>
+    <td align="center" width="80"><img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="50" /><br><sub>FastAPI</sub></td>
+  </tr>
+</table>
 
-<!-- <div align="left">
-  <img src="https://media1.giphy.com/media/jTMw980OBX5YEAulPm/200w.webp?cid=ecf05e47j9zw1kwjhpjfz4gl5081x8mumvwrmjlzomk0e7na&ep=v1_stickers_search&rid=200w.webp&ct=s" width="100px"/>
-</div> -->
+### **State Management, Forms & Testing**
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://redux-toolkit.js.org/img/redux.svg" width="50" /><br><sub>Redux Toolkit</sub></td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/favicon.ico" width="50" /><br><sub>Zustand</sub></td>
+    <td align="center" width="80"><img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="50" /><br><sub>React Hook Form</sub></td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" width="50" /><br><sub>Jest</sub></td>
+    <td align="center" width="80"><img src="https://blog.frankel.ch/assets/resources/first-steps-playwright/playwright-logo.svg" width="50" /><br><sub>Playwright</sub></td>
+  </tr>
+</table>
 
-<h3 align="">Hi, I'm Aditya!</h3>
-<p>A frontend-focused fullstack developer, <a href="https://paa.ge/adtya/en" alt="https://paa.ge/adtya/en" target="_blank">here</a> is some sample work.</p>
+### **Languages**
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" /><br><sub>JavaScript</sub></td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="50" /><br><sub>TypeScript</sub></td>
+    <td align="center" width="80"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" /><br><sub>Python</sub></td>
+  </tr>
+</table>
 
-<h3 align="">Lets connect:</h3>
-<p>helloadig@gmail.com</p>
+### **Tools & Platforms**
+<table>
+  <tr>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="50" /><br><sub>Git</sub></td>
+    <td align="center" width="80"><img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" width="50" /><br><sub>VS Code</sub></td>
+    <td align="center" width="80"><img src="https://www.cursor.com/favicon.ico" width="50" /><br><sub>Cursor</sub></td>
+    <td align="center" width="80"><img src="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" width="50" /><br><sub>ChatGPT</sub></td>
+    <td align="center" width="80"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/claude-ai.svg" width="50" /><br><sub>Claude Code</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="80"><img src="https://www.electronjs.org/assets/img/logo.svg" width="50" /><br><sub>Electron</sub></td>
+    <td align="center" width="80"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="50" /><br><sub>Postman</sub></td>
+  </tr>
+    
+</table>
 
-<h3 align="">I can work with:</h3>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> <a href="https://react.dev/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height="40"/></a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="next" width="40" height="40"/></a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/nextjs/images/abcffb25-b56d-475f-9c82-26818776dc33.svg" alt="next" width="40" height="40"/></a>  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a> <a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"><img src="https://upload.vectorlogo.zone/logos/visualstudio_code/images/a4381320-f83c-4a29-9db3-b241c1d096b1.svg" width="40" height="40"/></a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" height="40"/></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a><a href="https://vitejs.dev" target="_blank" rel="noreferrer"><img src="https://vectorwiki.com/images/bjlcA__vitejs.svg" alt="vite" width="40" height="40"/></a><a href="https://jestjs.io/docs/tutorial-react" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-ar21.svg" alt="jest" width="80"/></a>  <a href="https://mui.com" target="_blank" rel="noreferrer"><img src="https://vectorwiki.com/images/AN8h7__material-ui.svg" alt="material-ui" width="40" height="40"/></a> <a href="https://www.npmjs.com/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/npm.svg" width="70"/></a> <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://sass-lang.com/assets/img/logos/logo.svg" width="70"/></a> <a href="https://styled-components.com/" target="_blank" rel="noreferrer"><img src="https://www.styled-components.com/atom.png" width="50"/></a> <a href="https://www.react-hook-form.com/" target="_blank" rel="react hook form"><img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="50"/></a> <a href="https://redux-toolkit.js.org/" target="_blank" rel="redux tool kit"><img src="https://redux-toolkit.js.org/img/redux.svg" width="50"/></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongo" width="40" height="40"/></a> <a href="https://www.tutorialspoint.com/sqlite/index.htm" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg" alt="sql" width="50" height="40"/></a> <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a> <a href="https://devdocs.io/c" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://github.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="git" width="40" height="40"/></a> <a href="https://chat.openai.com/" target="_blank" rel="noreferrer"><img src="https://freelogopng.com/images/all_img/1681039084chatgpt-icon.png" alt="chatgpt" width="40" height="40"/></a> <a href="https://www.audacityteam.org" target="_blank" rel="noreferrer"><img src="https://brandeps.com/logo-download/A/Audacity-logo-vector-01.svg" alt="audacity" width="40" height="40"/></a> <a href="https://filmora.wondershare.net/" target="_blank" rel="noreferrer"><img src="https://iconape.com/wp-content/files/es/334140/png/wondershare-filmora-video-editor-logo.png" alt="audacity" width="40" height="40"/></a> <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" alt="audacity" width="40" height="40"/></a> <a href="https://appwrite.io/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="audacity" width="40" height="40"/></a> <a href="https://supabase.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/supabase/supabase-icon.svg" alt="audacity" width="40" height="40"/></a></p>
-<!--   <hr /> -->
-<h3 align="">Few open source badges:</h3>
+---
+
+## 🏆 Open Source Contributions
 
 [![An image of @aaadityag's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aaadityag)](https://holopin.io/@aaadityag)
 
+---
 
-
-
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaadityag&" alt="aaadityag" /></p> -->
-
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
-<!--
-<h3 align="center">Certifications and Showcases</h3>
-<p> Certified by 5+ different Platforms with over 20+ certificates : <a href="https://drive.google.com/drive/folders/131YgI5ehKg7DV_XufZVGq6hCHT5duE6_?usp=drive_link">Checkout🧐</a></p>
-<img width="540px" target="_blank" src="https://github.com/AaadityaG/AaadityaG/assets/114663382/e4d29063-883e-4ca9-ad94-b2b2f03f7997">
-## Thank you for watching my profile, Lets make you smile: 
-![Jokes Card](https://readme-jokes.vercel.app/api)
--->
-
+<p align="center">
+  <sub>Crafted with ❤️ • Always learning, always building</sub>
+</p>
